@@ -29,4 +29,5 @@ Start the development server:
 Navigate to: localhost:9000
 
 
-![image](file:///C:/Users/pseud/Pictures/Screenshots/quiz.png)
+![image](https://github.com/user-attachments/assets/0c9cdde6-6782-4d91-ad53-54c481829256)
+

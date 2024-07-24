@@ -1,4 +1,4 @@
-Simple Quiz App: Countries & Capitals
+## Simple Quiz App: Countries & Capitals
 
 This repository contains a simple quiz application focused on testing users' knowledge of countries and their capitals. The app is built using JavaScript, CSS, and HTML, and is configured with Webpack to streamline development and build processes. Features
 

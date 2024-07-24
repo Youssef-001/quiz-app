@@ -31,7 +31,11 @@ export default class Quiz{
 
             
             document.querySelector('.score').innerHTML = `Your score: ${score}/${questions.length}`
+            document.querySelector('.showResults').classList.add('disabled');
+
         }
+
+
 
     }
 

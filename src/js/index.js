@@ -29,7 +29,6 @@ const showResults = document.querySelector('.showResults');
 showResults.addEventListener('click', (e) => {
     let results = document.querySelectorAll('input[type=radio]:checked');
     quiz.getAnswers(results);
-    showResults.classList.add('disabled');
 
 
 });

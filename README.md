@@ -28,3 +28,5 @@ Start the development server:
 
 Navigate to: localhost:9000
 
+
+![alt text](file:///C:/Users/pseud/Pictures/Screenshots/quiz.png)

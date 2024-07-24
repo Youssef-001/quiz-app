@@ -1,0 +1,84 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+*{
+    padding:0;
+    margin:0;
+}
+body{
+    background-color: #e0f2fe;
+}
+
+.answers{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 10px;
+    
+}
+
+.question-card{
+    border: 2px solid black;
+    background-color: #dbeafe;
+
+}
+
+.quiz{
+    display:flex;
+    flex-direction: column;
+    gap:20px;
+    justify-content: center;
+    align-content: center;
+    padding: 15px;
+
+    padding: 2rem;
+}
+
+.question-paragraph{
+    font-size: 20px;
+    background-color: #0284c7;
+    height: 3rem;
+    color:black;
+}
+
+input[type="radio"]{
+    margin-left:10px;
+}
+
+label{
+    font-size: 1.2rem;
+    font-family: sans-serif;
+}
+
+.start,.showResults{
+    background-color: #0369a1;
+    color: white;
+    width: 7rem;
+    height : 3rem;
+    border-radius: 9px;
+    padding: 10px;
+    font-size: 1.1rem;
+    font-family: sans-serif;
+}
+
+.showResults{
+    width: 8rem;
+}
+.disabled{
+    display:none;
+}
+
+.score{
+    font-size: 1.5rem;;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+
+}
+
+.state{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 40px;
+}
